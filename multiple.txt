@@ -1,0 +1,20 @@
+1. a
+2. a
+3. d
+4. b
+5. c
+6. a
+7. d
+8. c
+9. b
+10. c
+11. a
+12. d
+13. c
+14. c
+15. c
+16. select * from customer order by point desc
+17. select * from customer where LIKE '%ahmad%'
+18. select * from customer order by total_pembelian desc limit 1 offset 2
+19. select count(nama) from customer where not pulau = 'jawa'
+20. 
